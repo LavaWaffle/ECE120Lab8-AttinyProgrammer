@@ -1,8 +1,6 @@
 # ECE120 Lab 8 Attiny Programmer
 This repository stores the code for ECE120's 8 Attiny13A and a Arduino Uno programmer to program each Attiny13A if any are broken.
 
-[TOC]
-
 ## How to use the programmer
 
 Place the Attiny13A in the Programmer circuit (bottom Attiny as shown in [1. Build the Following Circuit](#1-build-the-following-circuit)).
