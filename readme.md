@@ -37,7 +37,7 @@ Note you only need one attiny. Move it from the bottom programmer circuit to the
 Installation Docs:
 https://docs.platformio.org/en/stable/integration/ide/vscode.html#id1
 
-Or simply just earch "Platform IDE" in the VSCode extensions tab.
+Or simply just search "Platform IDE" in the VSCode extensions tab.
 
 ![PlatformIO IDE Install Extension](./documentation/PIOInstallExtension.png)
 
