@@ -13,6 +13,7 @@ If the **Program Status LED** flashes, then the program was correctly flashed! T
 If the **Program Status LED** does not flash, then try restarting the Arduino Uno. If that doesn't fix it, the Attiny is likely too broken to be flashes. (Feel free to check the exact serial logs for debugging)
 
 See here for a video example of how to use the programmer!
+
 https://github.com/user-attachments/assets/2ebe2cf9-ea08-4a3d-a909-2470eb8b089c
 
 ## Programmer Installation Instruction
